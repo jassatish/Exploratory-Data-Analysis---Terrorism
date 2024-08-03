@@ -1,6 +1,7 @@
 # Global Terrorism 
 
-[![GitHub license](https://img.shields.io/github/license/jassatish/global-terrorism-eda)
+[![GitHub license](https://img.shields.io/github/license/jassatish/global-terrorism-eda)](https://github.com/jassatish/global-terrorism-eda/blob/main/LICENSE)
+
 ## Introduction
 
 This repository contains code and analysis for performing Exploratory Data Analysis (EDA) on the Global Terrorism dataset. The goal is to identify terrorism hot zones, analyze attack trends, and derive actionable security insights. This analysis is valuable for security and defense analysts aiming to understand global terrorism patterns and impacts.
