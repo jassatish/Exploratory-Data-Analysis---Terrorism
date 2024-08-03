@@ -1,6 +1,6 @@
 # Global Terrorism 
 
-[![GitHub license](https://img.shields.io/github/license/jassatish/global-terrorism-eda)](https://github.com/jassatish/global-terrorism-eda/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/jassatish/Exploratory-Data-Analysis---Terrorism)](https://github.com/jassatish/Exploratory-Data-Analysis---Terrorism/blob/main/LICENSE)
 
 ## Introduction
 
